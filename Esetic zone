@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<title>Estetic zone</title>
+
+<style>
+
+body{
+background:linear-gradient(to bottom,#ffd6e8,#fff5fa);
+
+text-align:center;
+
+font-family;Arial;
+padding;40px;
+}
+
+h1
+color:#ff4d94;
+font-size;50px;
+}
+
+p{
+color;#8f5671
